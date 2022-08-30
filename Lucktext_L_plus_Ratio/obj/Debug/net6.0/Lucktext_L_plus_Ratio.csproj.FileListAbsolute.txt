@@ -1,0 +1,15 @@
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\bin\Debug\net6.0\Lucktext_L_plus_Ratio.exe
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\bin\Debug\net6.0\Lucktext_L_plus_Ratio.deps.json
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\bin\Debug\net6.0\Lucktext_L_plus_Ratio.runtimeconfig.json
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\bin\Debug\net6.0\Lucktext_L_plus_Ratio.dll
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\bin\Debug\net6.0\Lucktext_L_plus_Ratio.pdb
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.csproj.AssemblyReference.cache
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.AssemblyInfoInputs.cache
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.AssemblyInfo.cs
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.csproj.CoreCompileInputs.cache
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.dll
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\refint\Lucktext_L_plus_Ratio.dll
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.pdb
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\Lucktext_L_plus_Ratio.genruntimeconfig.cache
+C:\programming folder\Lucktext_L_plus_Ratio\Lucktext_L_plus_Ratio\obj\Debug\net6.0\ref\Lucktext_L_plus_Ratio.dll
